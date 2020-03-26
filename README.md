@@ -13,5 +13,5 @@ Dependencies to install axios, inquirer, html-pdf, open.
 
 gitHub repository: https://github.com/TravisGuillory/DeveloperProfileGenerator
 
-https://giphy.com/gifs/hqOpaPQzo0DyyT8JvV
+<iframe src="https://giphy.com/embed/hqOpaPQzo0DyyT8JvV" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hqOpaPQzo0DyyT8JvV">via GIPHY</a></p>
 
