@@ -1,0 +1,25 @@
+{
+  "name": "developerprofiler",
+  "version": "1.0.0",
+  "description": "Generates PDF of a Developer's Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisGuillory/DeveloperProfileGenerator.git"
+  },
+  "author": "Travis Guillory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravisGuillory/DeveloperProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/TravisGuillory/DeveloperProfileGenerator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "electron": "^8.2.0",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.1.0"
+  }
+}
