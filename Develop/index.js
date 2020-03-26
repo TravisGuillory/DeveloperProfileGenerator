@@ -36,7 +36,7 @@ function init() {
                             data.stars = numStars.length;
                             data.color = color;
                             
-                            pdf.create(generateHTML(data)).toFile('Assets/devportfolio.pdf', function (err, res) {
+                            pdf.create(generateHTML(data)).toFile('../PDF/devportfolio.pdf', function (err, res) {
                                 if (err) throw (err);
                             })
                         })
