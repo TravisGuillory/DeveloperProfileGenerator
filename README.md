@@ -14,4 +14,4 @@ Dependencies to install axios, inquirer, html-pdf, open.
 gitHub repository: https://github.com/TravisGuillory/DeveloperProfileGenerator
 
 
-![](developerProfiler.gif)  ![](samplePDF.jpg)
+![](developerProfiler.gif)  
