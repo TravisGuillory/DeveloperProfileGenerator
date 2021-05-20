@@ -20,7 +20,7 @@
     "axios": "^0.19.2",
     "electron": "^8.2.0",
     "electron-html-to": "^2.6.0",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "inquirer": "^7.1.0",
     "open": "^7.0.3"
   }
